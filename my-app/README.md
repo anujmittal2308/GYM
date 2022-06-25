@@ -1,3 +1,8 @@
+# About
+With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical. examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more. 
+   
+# using ExercisesAPI, REACT,REACT-DOM, MATERIAL-UI ,JavaScript, jQuery,HTML, ,Cascading Style Sheets
+
 # React Fitness Application
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
